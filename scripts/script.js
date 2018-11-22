@@ -248,10 +248,15 @@ function revealCards(){
     card.classList.remove("prepared");
     card.classList.remove("reveal-power");
 
-    // Display the payer card details
+    // Display the player card details
     if(card.classList.contains("player-card")) {
       card.querySelector(".text").innerHTML = playerCards[cardIndexes[j]].description;
       card.querySelector(".power").innerHTML = playerCards[cardIndexes[j]].power;
+
+      console.log(playerCards[cardIndexes[j]].image);
+      
+      card.querySelector(".imageCont").style.backgroundImage = "url(images/" + playerCards[cardIndexes[j]].image + ")";
+
       j++;
     }
 
