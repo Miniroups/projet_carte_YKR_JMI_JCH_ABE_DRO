@@ -1,4 +1,4 @@
-/* Change the colors in this stylesheet to customize the game. */ 
+/* Change the colors in this stylesheet to customize the game. */
 
 /* Player Styles */
 
@@ -33,21 +33,21 @@
 /*==============our cards============*/
 
 .imageCont{
-	
+
 	width: 100%;
-	
+
 	background-color: white;
 	height: 40%;
 	background-size: cover;
 	border-radius: 5px;
-	
+
 }
 
 .hacker-card .imageCont{
 	background-image: url(images/hacker.png);
 }
 
-.player1{
+/* .player1{
 	background-image: url(images/player1.jpg);
 }
 .player2{
@@ -61,14 +61,14 @@
 }
 .player5{
 	background-image: url(images/player5.png);
-}
+} */
 
 .text{
-	
+
 	margin-top: 10px;
 	font-size: 0.7em;
 	width: 95%;
-	
+
 	background-color: white;
 	padding: 5px;
 	border-radius: 5px;
@@ -90,5 +90,5 @@
 	font-size: 0.7em;
 	font-weight: normal;
 	width: 100%;
-	
+
 }
