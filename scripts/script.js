@@ -225,7 +225,7 @@ function playTurn() {
 
 function revealCards(){
   var j = 0;
-  var cardIndexes = shuffleArray([0,1,2]);
+  var cardIndexes = shuffleArray([0,1,2,3,4]);
 
 
   // Get scenario cards
