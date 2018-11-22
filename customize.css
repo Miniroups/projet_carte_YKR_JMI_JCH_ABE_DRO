@@ -33,19 +33,35 @@
 /*==============our cards============*/
 
 .imageCont{
-	position: absolute;
-	width: 90%;
-	left: 5%;
+	
+	width: 100%;
+	
 	background-color: white;
 	height: 40%;
+	background-size: cover;
+	border-radius: 5px;
+	
 }
 
+.hacker-card .imageCont{
+	background-image: url(images/hacker.png);
+}
+
+.player1{
+	
+}
+
+
 .text{
-	position: absolute;
-	top: 45%;
+	
+	margin-top: 10px;
 	font-size: 0.7em;
-	width: 90%;
-	left: 5%;
+	width: 95%;
+	
+	background-color: white;
+	padding: 5px;
+	border-radius: 5px;
+
 
 }
 
@@ -59,5 +75,9 @@
 }
 
 .flavor-text{
+	margin-top: 10px;
+	font-size: 0.7em;
+	font-weight: normal;
+	width: 100%;
 	
 }
