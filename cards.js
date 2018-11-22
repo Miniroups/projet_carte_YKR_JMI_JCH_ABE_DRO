@@ -8,7 +8,7 @@ var scenarios = [
       {
         name : "VP Sven",
         cost : 2,
-        image: '',
+        image: 'player1.jpg',
         type : 'Anti-Trackers',
         description : "Anonymizing agent, VPN ranger",
         abilities : '',
@@ -18,7 +18,7 @@ var scenarios = [
       {
         name : 'Hackerman',
         cost : 4,
-        image : '',
+        image : 'player2.png',
         type : 'Cyber-Attacker',
         description : 'Je hack tout les personnes pour dévoiler leur secret dérangeant.',
         abilities : '',
@@ -29,7 +29,7 @@ var scenarios = [
       {
         name : 'Néo-Tux',
         cost : 5,
-        image : '',
+        image : 'player4.jpeg',
         type : 'OS libre',
         description : 'Créer un nouvel environnement',
         abilities : '',
@@ -40,7 +40,7 @@ var scenarios = [
       {
         name : 'Bon programmeur',
         cost : 5,
-        image : '',
+        image : 'player3.png',
         type : 'Programmeur',
         description : 'Développement de logiciels anti-piratage',
         abilities : '',
@@ -51,7 +51,7 @@ var scenarios = [
       {
         name : 'Specter the Brancher',
         cost : 5,
-        image : '',
+        image : 'player5.png',
         type : 'Cyber-Attacker',
         description : 'Creates a side channel exploiting branch misprediction and speculative execution so to extract information from processor cache, Plays well with some JavaScript JIT interpreters, Can summon his younger brother Meltdown if need be',
         abilities : '',
@@ -70,7 +70,7 @@ var scenarios = [
       {
         name : "VP Sven",
         cost : 2,
-        image: '',
+        image: 'player1.jpg',
         type : 'Anti-Trackers',
         description : "Anonymizing agent, VPN ranger",
         abilities : '',
@@ -80,7 +80,7 @@ var scenarios = [
       {
         name : 'Hackerman',
         cost : 4,
-        image : '',
+        image : 'player2.png',
         type : 'Cyber-Attacker',
         description : 'Je hack tout les personnes pour dévoiler leur secret dérangeant.',
         abilities : '',
@@ -91,7 +91,7 @@ var scenarios = [
       {
         name : 'Néo-Tux',
         cost : 5,
-        image : '',
+        image : 'player4.jpeg',
         type : 'OS libre',
         description : 'Créer un nouvel environnement',
         abilities : '',
@@ -102,7 +102,7 @@ var scenarios = [
       {
         name : 'Bon programmeur',
         cost : 5,
-        image : '',
+        image : 'player3.png',
         type : 'Programmeur',
         description : 'Développement de logiciels anti-piratage',
         abilities : '',
@@ -113,7 +113,7 @@ var scenarios = [
       {
         name : 'Specter the Brancher',
         cost : 5,
-        image : '',
+        image : 'player5.png',
         type : 'Cyber-Attacker',
         description : 'Creates a side channel exploiting branch misprediction and speculative execution so to extract information from processor cache, Plays well with some JavaScript JIT interpreters, Can summon his younger brother Meltdown if need be',
         abilities : '',
@@ -132,7 +132,7 @@ var scenarios = [
       {
         name : "VP Sven",
         cost : 2,
-        image: '',
+        image: 'player1.jpg',
         type : 'Anti-Trackers',
         description : "Anonymizing agent, VPN ranger",
         abilities : '',
@@ -142,7 +142,7 @@ var scenarios = [
       {
         name : 'Hackerman',
         cost : 4,
-        image : '',
+        image : 'player2.png',
         type : 'Cyber-Attacker',
         description : 'Je hack tout les personnes pour dévoiler leur secret dérangeant.',
         abilities : '',
@@ -153,7 +153,7 @@ var scenarios = [
       {
         name : 'Néo-Tux',
         cost : 5,
-        image : '',
+        image : 'player4.jpeg',
         type : 'OS libre',
         description : 'Créer un nouvel environnement',
         abilities : '',
@@ -164,7 +164,7 @@ var scenarios = [
       {
         name : 'Bon programmeur',
         cost : 5,
-        image : '',
+        image : 'player3.png',
         type : 'Programmeur',
         description : 'Développement de logiciels anti-piratage',
         abilities : '',
@@ -175,7 +175,7 @@ var scenarios = [
       {
         name : 'Specter the Brancher',
         cost : 5,
-        image : '',
+        image : 'player5.png',
         type : 'Cyber-Attacker',
         description : 'Creates a side channel exploiting branch misprediction and speculative execution so to extract information from processor cache, Plays well with some JavaScript JIT interpreters, Can summon his younger brother Meltdown if need be',
         abilities : '',
@@ -194,7 +194,7 @@ var scenarios = [
       {
         name : "VP Sven",
         cost : 2,
-        image: '',
+        image: 'player1.jpg',
         type : 'Anti-Trackers',
         description : "Anonymizing agent, VPN ranger",
         abilities : '',
@@ -204,7 +204,7 @@ var scenarios = [
       {
         name : 'Hackerman',
         cost : 4,
-        image : '',
+        image : 'player2.png',
         type : 'Cyber-Attacker',
         description : 'Je hack tout les personnes pour dévoiler leur secret dérangeant.',
         abilities : '',
@@ -215,7 +215,7 @@ var scenarios = [
       {
         name : 'Néo-Tux',
         cost : 5,
-        image : '',
+        image : 'player4.jpeg',
         type : 'OS libre',
         description : 'Créer un nouvel environnement',
         abilities : '',
@@ -226,7 +226,7 @@ var scenarios = [
       {
         name : 'Bon programmeur',
         cost : 5,
-        image : '',
+        image : 'player3.png',
         type : 'Programmeur',
         description : 'Développement de logiciels anti-piratage',
         abilities : '',
@@ -237,7 +237,7 @@ var scenarios = [
       {
         name : 'Specter the Brancher',
         cost : 5,
-        image : '',
+        image : 'player5.png',
         type : 'Cyber-Attacker',
         description : 'Creates a side channel exploiting branch misprediction and speculative execution so to extract information from processor cache, Plays well with some JavaScript JIT interpreters, Can summon his younger brother Meltdown if need be',
         abilities : '',
@@ -256,7 +256,7 @@ var scenarios = [
       {
         name : "VP Sven",
         cost : 2,
-        image: '',
+        image: 'player1.jpg',
         type : 'Anti-Trackers',
         description : "Anonymizing agent, VPN ranger",
         abilities : '',
@@ -266,7 +266,7 @@ var scenarios = [
       {
         name : 'Hackerman',
         cost : 4,
-        image : '',
+        image : 'player2.png',
         type : 'Cyber-Attacker',
         description : 'Je hack tout les personnes pour dévoiler leur secret dérangeant.',
         abilities : '',
@@ -277,7 +277,7 @@ var scenarios = [
       {
         name : 'Néo-Tux',
         cost : 5,
-        image : '',
+        image : 'player4.jpeg',
         type : 'OS libre',
         description : 'Créer un nouvel environnement',
         abilities : '',
@@ -288,7 +288,7 @@ var scenarios = [
       {
         name : 'Bon programmeur',
         cost : 5,
-        image : '',
+        image : 'player3.png',
         type : 'Programmeur',
         description : 'Développement de logiciels anti-piratage',
         abilities : '',
@@ -299,7 +299,7 @@ var scenarios = [
       {
         name : 'Specter the Brancher',
         cost : 5,
-        image : '',
+        image : 'player5.png',
         type : 'Cyber-Attacker',
         description : 'Creates a side channel exploiting branch misprediction and speculative execution so to extract information from processor cache, Plays well with some JavaScript JIT interpreters, Can summon his younger brother Meltdown if need be',
         abilities : '',
@@ -318,7 +318,7 @@ var scenarios = [
       {
         name : "VP Sven",
         cost : 2,
-        image: '',
+        image: 'player1.jpg',
         type : 'Anti-Trackers',
         description : "Anonymizing agent, VPN ranger",
         abilities : '',
@@ -328,7 +328,7 @@ var scenarios = [
       {
         name : 'Hackerman',
         cost : 4,
-        image : '',
+        image : 'player2.png',
         type : 'Cyber-Attacker',
         description : 'Je hack tout les personnes pour dévoiler leur secret dérangeant.',
         abilities : '',
@@ -339,7 +339,7 @@ var scenarios = [
       {
         name : 'Néo-Tux',
         cost : 5,
-        image : '',
+        image : 'player4.jpeg',
         type : 'OS libre',
         description : 'Créer un nouvel environnement',
         abilities : '',
@@ -350,7 +350,7 @@ var scenarios = [
       {
         name : 'Bon programmeur',
         cost : 5,
-        image : '',
+        image : 'player3.png',
         type : 'Programmeur',
         description : 'Développement de logiciels anti-piratage',
         abilities : '',
@@ -361,7 +361,7 @@ var scenarios = [
       {
         name : 'Specter the Brancher',
         cost : 5,
-        image : '',
+        image : 'player5.png',
         type : 'Cyber-Attacker',
         description : 'Creates a side channel exploiting branch misprediction and speculative execution so to extract information from processor cache, Plays well with some JavaScript JIT interpreters, Can summon his younger brother Meltdown if need be',
         abilities : '',
